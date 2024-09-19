@@ -18,9 +18,6 @@ class Area {
     int width;
     int radius;
 
-    Area() {
-
-    }
     Area(int length, int width, int radius) {
         this.length = length;
         this.width = width;
